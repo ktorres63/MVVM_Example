@@ -1,0 +1,12 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme. -->
+    <style name="Base.Theme.ExampleMVVM" parent="Theme.MaterialComponents.DayNight.NoActionBar">
+        <!-- Primary brand color. -->
+        <item name="colorPrimary">@color/red</item>
+        <item name="colorPrimaryVariant">@color/red</item>
+        <!-- Status bar color. -->
+        <item name="android:statusBarColor">@color/red</item>
+        <!-- Customize your theme here. -->
+    </style>
+    <style name="Theme.ExampleMVVM" parent="Base.Theme.ExampleMVVM"></style>
+</resources>
